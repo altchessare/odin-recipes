@@ -1,12 +1,31 @@
+.body{
+    background-color: burlywood;
+    padding: 20px;
+    height:100vw;
+}
+
+
+
 .container,
 .headtext {
     text-align: center;
 }
 
 .headtext {  
-    margin: 10px;
+    margin: 0 auto;
     padding: 1px;
     height: auto;
     border: 4px solid black;
     border-radius: 100px;
+    background-color: aliceblue;
+    width: 55%;
+}
+
+ul,
+.unlist {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
 }
