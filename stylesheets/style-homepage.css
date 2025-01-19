@@ -1,0 +1,45 @@
+
+html{
+    background-color: cadetblue;
+}
+
+.navbar{
+    width: 50%;
+    background-color: aquamarine;
+    border: 4px solid rgb(52, 175, 134);
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.navbarhead span{
+    margin: 30px;
+}
+
+.navbarhead {
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+
+.recipelist{
+    background-color: bisque;
+    border: 3px solid rgb(211, 166, 112);
+    margin-top: 30px;
+    display: flex;
+}
+
+ul{
+    text-align: right;
+}
+
+.ulitemfirst,
+.ulitem {
+    list-style: none;
+    padding: 4px;
+}
+
+.ulitem{
+    padding: 4px;
+    list-style: none;
+    margin-top: 100px;
+}
